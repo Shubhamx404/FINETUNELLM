@@ -5,6 +5,7 @@ This repository demonstrates how to fine-tune **Meta’s LLaMA-2-7B** model effi
 It turns the base model into a custom **instruction-following chatbot** trained on the **Indian Constitution Articles dataset**.
 
 ---
+Check more models  on Hugging Face 
 # colab link : [https://colab.research.google.com/drive/1-lxQKb9P8Xde0ft4hTLFFJ_O6V8vA8uo](https://colab.research.google.com/github/Shubhamx404/FINETUNELLM/blob/main/finetuning%20with%20qlora.ipynb)
 
 ## 📘 Dataset
